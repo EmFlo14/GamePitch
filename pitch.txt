@@ -1,0 +1,38 @@
+Game idea:
+
+A scrolling world creepy game where the main character is in a spooky forest and trying to get through the levels by avoiding getting killed by monsters.
+
+
+
+Scenario and character descriptions:
+
+The entire scenery would be black and white but not the main character and the monsters. The main character would have a flashlight which would scare off
+the monsters. 
+
+
+
+Character’s actions and goals:
+
+The character would jump on different ledges and branches in the forest to try to avoid the monsters, and shine the flashlight at them to kill them. If
+the light is shined on the monsters for long enough, they die. The flashlight will run out of power so the player will have to go find a new flashlight
+when the current one is getting darker and darker. These flashlights will be found at different places in the forest. 
+
+
+
+Win/lose conditions:
+
+To win, the character will have to reach the end of the world. If the character gets touched by a monster 5 times, they die. 
+
+
+
+Source of inspiration:
+
+I was inspired by the video games Limbo and Little Nightmares.
+
+
+
+What I’m looking for in a teammate:
+
+Someone who is willing to work as hard as they can in order to help create the best game possible, but also someone who is very organized and, depending 
+of the different strengths of each specific teammate, does their part of the work and asks for and/or gives help if needed.
+
